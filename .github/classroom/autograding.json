@@ -3,7 +3,7 @@
         {
             "name": "getJokes",
             "setup": "",
-            "run": "npm run test",
+            "run": "npm run auto-test",
             "input": "",
             "output": "",
             "comparison": "included",
